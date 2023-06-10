@@ -1,5 +1,5 @@
 - Hi, I’m @ohussar
-- I’m currently learning C++ and algorithms such as procedural generation..
+- Not learning anything new at the moment
 - At this moment not looking for any collaboration.
 - How to reach me ohussar45@gmail.com
 
