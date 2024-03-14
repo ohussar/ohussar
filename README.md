@@ -1,3 +1,3 @@
 - Hi, I’m @ohussar
-- Learning some java at the moment 
+- Learning java at the moment 
 - Reach me at: ohussar45@gmail.com
